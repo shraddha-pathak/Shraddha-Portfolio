@@ -3,7 +3,8 @@ Shraddha Pathak – Portfolio
 🎓 BCA Student | Aspiring Software & Data Analytics Intern  
 📍 India
 
----
+Live Portfolio Website:  
+https://shraddha-pathak.github.io/Shraddha-Portfolio/
 
 ## 👋 About Me
 I am a motivated BCA student with a strong interest in software development, web designing, and data analytics.  
